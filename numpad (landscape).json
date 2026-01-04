@@ -1,0 +1,72 @@
+[
+  [
+    { "label": "(", "type": "normal", "width": 0.125 },
+
+    { "label": ")", "type": "normal", "width": 0.125 },
+
+    { "label": "{", "type": "normal", "width": 0.125 },
+
+    { "label": "}", "type": "normal", "width": 0.125 },
+
+    { "label": "[", "type": "normal", "width": 0.125 },
+
+    { "label": "]", "type": "normal", "width": 0.125 },
+
+    { "label": "space", "type": "function", "width": 0.125},
+
+    { "label": "!icon/left|!code/-7", "type": "function", "width": 0.125 }
+  ],
+  [
+    { "label": "1", "type": "normal", "width": 0.125, "labelFlags": "1073741824", "popup": { "relevant": [{ "label": "¹" }] } },
+
+    { "label": "2", "type": "normal", "width": 0.125, "labelFlags": "1073741824", "popup": { "relevant": [{ "label": "²" }] } },
+
+    { "label": "3", "type": "normal", "width": 0.125, "labelFlags": "1073741824", "popup": { "relevant": [{ "label": "³" }] } },
+
+    { "label": "4", "type": "normal", "width": 0.125, "labelFlags": "1073741824", "popup": { "relevant": [{ "label": "⁴" }] } },
+
+    { "label": "5", "type": "normal", "width": 0.125, "labelFlags": "1073741824", "popup": { "relevant": [{ "label": "⁵" }] } },
+
+    { "label": "%", "type": "normal", "width": 0.125},
+
+    { "label": "/", "type": "normal", "width": 0.125, "labelFlags": "1073741824", "popup": { "relevant": [          { "label": "÷" }] } },
+
+    { "label": "*", "type": "normal", "width": 0.125, "labelFlags": "1073741824", "popup": { "relevant": [          { "label": "×" }] } },
+  ],
+  [
+    { "label": "6", "type": "normal", "width": 0.125, "labelFlags": "1073741824", "popup": { "relevant": [{ "label": "⁶" }] } },
+
+    { "label": "7", "type": "normal", "width": 0.125, "labelFlags": "1073741824", "popup": { "relevant": [{ "label": "⁷" }] } },
+
+    { "label": "8", "type": "normal", "width": 0.125, "labelFlags": "1073741824", "popup": { "relevant": [{ "label": "⁸" }] } },
+
+    { "label": "9", "type": "normal", "width": 0.125, "labelFlags": "1073741824", "popup": { "relevant": [{ "label": "⁹" }] } },
+
+    { "label": "0", "type": "normal", "width": 0.125, "labelFlags": "1073741824", "popup": { "relevant": [{ "label": "⁰" }] } },
+
+    { "label": "$$$", "type": "normal", "width": 0.125, "labelFlags": "1073741824"},
+
+    { "label": "-", "type": "normal", "width": 0.125, "labelFlags": "1073741824", "popup": { "relevant": [          { "label": "_" }] } },
+
+    { "label": "+", "type": "normal", "width": 0.125},
+  ],
+  [
+    { "label": "alpha", "type": "normal", "width": 0.125 },
+
+    { "label": ".", "type": "normal", "width": 0.125, "labelFlags": "1073741824", "popup": { "relevant": [         { "label": "," },
+          { "label": ";" }] } },
+
+    { "label": ":", "type": "normal", "width": 0.125, "labelFlags": "1073741824", "popup": { "relevant": [          { "label": "!" },
+           { "label": "~" },
+           { "label": "#" },
+           { "label": "&" }] } },
+
+    { "label": "=", "type": "normal", "width": 0.125 },
+
+    { "label": "<", "type": "normal", "width": 0.125, "labelFlags": "1073741824", "popup": { "relevant": [{ "label": "^" }] } },
+
+    { "label": ">", "type": "normal", "width": 0.125, "labelFlags": "1073741824", "popup": { "relevant": [{ "label": "^" }] } },
+
+    { "label": "action", "type": "action", "width": 0.25 }
+  ]
+]

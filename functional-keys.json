@@ -1,0 +1,53 @@
+[
+  [
+    { 
+      "label": "numpad", 
+      "type": "function",
+      "width": 0.13, 
+      "popup": { 
+        "relevant": [
+           { "label": "language_switch" },
+          { "label": "emoji" },
+        ]
+      }    
+    },
+    { 
+      "label": "ᶜᵗʳˡ|!code/-1", 
+      "type": "function",
+      "width": 0.1, 
+      "popup": { "relevant": [] } 
+    },
+    { 
+      "label": "ᵗᵃᵇ|!code/-10014", 
+      "type": "function",
+      "width": 0.1, 
+      "popup": { "relevant": [] }
+    },    
+    {
+      "label": "!icon/space_key_for_number_layout|!code/key_space", "type": "space", "width": -1
+    },
+    { 
+      "label": "ᵃˡᵗ|!code/-3", 
+      "type": "function",
+      "width": 0.1, 
+      "popup": { "relevant": [] } 
+    },
+    { 
+      "label": "ᵉˢᶜ|!code/-10017", 
+      "type": "function",
+      "width": 0.1, 
+      "popup": { "relevant": [] }
+    },
+    { 
+      "label": "action", 
+      "width": 0.13,
+      "groupId": -1,
+      "type": "action",
+      "popup": { 
+        "relevant": [
+           { "label": "settings" },
+]
+     } 
+    },
+  ]
+]

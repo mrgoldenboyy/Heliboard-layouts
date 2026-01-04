@@ -1,0 +1,186 @@
+[
+  [
+    {
+      "label": "\"",
+      "type": "normal",
+      "width": 0.1,
+      "popup": { "relevant": [
+          { "label": "'" },
+          { "label": "`" }] }
+    },
+    {
+      "label": ":",
+      "type": "normal",
+      "width": 0.1,
+      "popup": { "relevant": [
+          { "label": "." },
+          { "label": "," },
+          { "label": ";" }] }
+    },
+    {
+      "label": "_",
+      "type": "normal",
+      "width": 0.1,
+      "popup": { "relevant": [
+         { "label": "—" },
+         { "label": "–" }] }
+    },
+    {
+      "label": ">",
+      "type": "normal",
+      "width": 0.1,
+      "popup": { "relevant": [
+         { "label": "<" },
+         { "label": "^" }] }
+    },
+    {
+      "label": "-",
+      "type": "normal",
+      "width": 0.1,
+      "popup": { "relevant": [
+         { "label": "=" },
+         { "label": "*" },
+         { "label": "+" },
+         { "label": "%" }] }
+    },
+    {
+      "label": "(",
+      "type": "normal",
+      "width": 0.1,
+      "popup": { "relevant": [
+         { "label": "{" },
+         { "label": "[" }] }
+    },
+    {
+      "label": ")",
+      "type": "normal",
+      "width": 0.1,
+      "popup": { "relevant": [
+         { "label": "}" },
+         { "label": "]" }] }
+    },
+    {
+      "label": "&",
+      "type": "normal",
+      "width": 0.1,
+      "popup": { "relevant": [
+         { "label": "!" },
+         { "label": "?" },
+         { "label": "$" }] }
+    },
+    {
+      "label": "/",
+      "type": "normal",
+      "width": 0.1,
+      "popup": { "relevant": [
+          { "label": "\\" },
+          { "label": "|" }] }
+    },
+    {
+      "label": "~",
+      "type": "normal",
+      "width": 0.1,
+      "popup": { "relevant": [
+         { "label": "#" },
+         { "label": "@" }]}}
+  ],
+  [
+    { "label": "q", "width": 0.1, "popup": {"relevant":[
+    { "label": "1" },
+    { "label": "F1|!code/-10028" }] }
+    },
+    { "label": "w", "width": 0.1, "popup": {"relevant":[
+    { "label": "2" },
+    { "label": "F2|!code/-10029" }] }
+    },
+    {
+      "label": "e",
+      "width": 0.1,
+      "popup": { "relevant": [ { "label": "3" },
+        { "label": "F3|!code/-10030" }] }
+    },
+    { "label": "r", "width": 0.1, "popup": {"relevant": [
+    { "label": "4"},
+{ "label": "F4|!code/-10031" }] }
+    },
+    { "label": "t", "width": 0.1, "popup": {"relevant": [
+    { "label": "5"},
+   { "label": "F5|!code/-10032" }] }
+    },
+    { "label": "y", "width": 0.1,"popup": {"relevant":[
+    { "label": "6" },
+    { "label": "F6|!code/-10033" }] }
+    },
+    {
+      "label": "u",
+      "width": 0.1,
+      "popup": { "relevant": [ { "label": "7" },
+       { "label": "F7|!code/-10034" }] }
+    },
+    {
+      "label": "i",
+      "width": 0.1,
+     "popup": {"relevant":[ { "label": "8" },
+      { "label": "F8|!code/-10035" }] }
+    },
+    {
+      "label": "o",
+      "width": 0.1,
+    "popup": {"relevant":[ { "label": "9" },
+     { "label": "F9|!code/-10036" }] }
+    },
+    {
+      "label": "p",
+      "width": 0.1,
+      "popup": { "relevant": [ { "label": "0" },
+       { "label": "F10|!code/-10037" }] }
+    }
+  ],
+  [
+    {
+      "label": "a",
+      "width": 0.1,
+     "labelFlags": "1073741824",
+      "popup": { "relevant": [{ "label": "F11|!code/-10038" }] }
+    },
+    { "label": "s", "width": 0.1, "labelFlags": "1073741824",  "popup": {"relevant":[{ "label": "F12|!code/-10039" }] }
+    },
+    { "label": "d", "width": 0.1, "popup": {"relevant":[] }
+    },
+    { "label": "f", "width": 0.1, "popup": {"relevant":[] }
+    },
+    { "label": "g", "width": 0.1, "popup": {"relevant":[] }},
+    { "label": "h", "width": 0.1, "popup": {"relevant": [] }
+    },
+    { "label": "j", "width": 0.1, "popup": {"relevant":[] }},
+    { "label": "k", "width": 0.1, "popup": {"relevant":[] }
+    },
+    { "label": "l", "width": 0.1, "popup": {"relevant": [] }
+   }
+  ],
+  [
+    { "label": "shift", "type": "function", "width": 0.13 },
+    { "type": "placeholder", "width": 0.02 },
+    { "label": "z", "width": 0.1, "popup": {"relevant":[] }
+    },
+    { "label": "x", "width": 0.1, "popup": {"relevant":[] }},
+    {
+      "label": "c",
+      "width": 0.1,
+      "popup": { "relevant": [] }
+    },
+    { "label": "v", "width": 0.1, "popup": {"relevant":[] }
+    },
+    { "label": "b", "width": 0.1, "popup": {"relevant":[] }
+    },
+    {
+      "label": "n",
+      "width": 0.1,
+      "popup": { "relevant": [] }
+    },
+    { "label": "m", "width": 0.1, "popup": {"relevant":[] }
+    },
+    { "type": "placeholder", "width": 0.02 },
+    { "label": "delete", "type": "function", "width": 0.13 }
+  ]
+]
