@@ -3,12 +3,14 @@
     { 
       "label": "numpad", 
       "type": "function",
-      "width": 0.13, 
+      "width": 0.13,
       "popup": { 
         "relevant": [
            { "label": "language_switch" },
-          { "label": "emoji" },
-        ]
+           { "label": "emoji" },
+           { "label": "clipboard" },
+           { "label": "settings" },
+]
       }    
     },
     { 
@@ -44,10 +46,8 @@
       "groupId": -1,
       "type": "action",
       "popup": { 
-        "relevant": [
-           { "label": "settings" },
-]
+        "relevant": []
      } 
     },
   ]
-]
+      ]
