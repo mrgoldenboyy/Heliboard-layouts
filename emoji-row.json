@@ -1,0 +1,13 @@
+[
+  [
+     { "label": "undo", "width": 0.13, "type": "unspecified"},
+
+    { "label": "redo", "width": 0.13, "type": "unspecified"},
+
+    { "label": "!icon/space_key_for_number_layout|!code/key_space", "type": "unspecified", "width": -1 },
+
+    { "label": "!icon/left|!code/-7", "type": "unspecified", "width": 0.13 },
+
+    { "label": "close_history", "width": 0.13, "type": "unspecified"}
+  ]
+]
