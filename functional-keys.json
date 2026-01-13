@@ -29,7 +29,7 @@
       "label": "!icon/space_key_for_number_layout|!code/key_space", "type": "space", "width": -1
     },
     { 
-      "label": "ᵃˡᵗ|!code/-3", 
+      "label": "ᵃˡᵗ|!code/-10046", 
       "type": "function",
       "width": 0.1, 
       "popup": { "relevant": [] } 
