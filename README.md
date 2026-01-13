@@ -31,7 +31,7 @@ I’ve capped almost every key at **3 symbols max**. No more sliding through a d
 
 `&` `0` `.` `=` `+` `!`
 
-`abc` `~` `^` `<` `>` `enter`
+`abc` `~` `^` `<` `>` `↲`
 
 ### Files
 
