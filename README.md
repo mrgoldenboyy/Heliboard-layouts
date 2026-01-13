@@ -23,7 +23,7 @@ I’ve capped almost every key at **3 symbols max**. No more sliding through a d
 
 `(` `)` `{` `}` `[` `]`
 
-`$` `7` `8` `9` `/` `delete`
+`$` `7` `8` `9` `/` `⌦`
 
 `%` `4` `5` `6` `*` `spacebar`
 
