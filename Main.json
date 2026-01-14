@@ -97,15 +97,15 @@
       "label": "e",
       "width": 0.1,
       "popup": { "relevant": [ { "label": "3" },
-        { "label": "F3|!code/-10030" }] }
+    { "label": "F3|!code/-10030" }] }
     },
     { "label": "r", "width": 0.1, "popup": {"relevant": [
     { "label": "4"},
-{ "label": "F4|!code/-10031" }] }
+    { "label": "F4|!code/-10031" }] }
     },
     { "label": "t", "width": 0.1, "popup": {"relevant": [
     { "label": "5"},
-   { "label": "F5|!code/-10032" }] }
+    { "label": "F5|!code/-10032" }] }
     },
     { "label": "y", "width": 0.1,"popup": {"relevant":[
     { "label": "6" },
@@ -115,25 +115,25 @@
       "label": "u",
       "width": 0.1,
       "popup": { "relevant": [ { "label": "7" },
-       { "label": "F7|!code/-10034" }] }
+    { "label": "F7|!code/-10034" }] }
     },
     {
       "label": "i",
       "width": 0.1,
      "popup": {"relevant":[ { "label": "8" },
-      { "label": "F8|!code/-10035" }] }
+    { "label": "F8|!code/-10035" }] }
     },
     {
       "label": "o",
       "width": 0.1,
     "popup": {"relevant":[ { "label": "9" },
-     { "label": "F9|!code/-10036" }] }
+    { "label": "F9|!code/-10036" }] }
     },
     {
       "label": "p",
       "width": 0.1,
       "popup": { "relevant": [ { "label": "0" },
-       { "label": "F10|!code/-10037" }] }
+    { "label": "F10|!code/-10037" }] }
     }
   ],
   [
@@ -163,7 +163,8 @@
     { "type": "placeholder", "width": 0.02 },
     { "label": "z", "width": 0.1, "popup": {"relevant":[] }
     },
-    { "label": "x", "width": 0.1, "popup": {"relevant":[] }},
+    { "label": "x", "width": 0.1, "popup": {"relevant":[] }
+    },
     {
       "label": "c",
       "width": 0.1,
