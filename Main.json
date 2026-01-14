@@ -26,10 +26,11 @@
          { "label": "–" }] }
     },
     {
-      "label": ">",
+      "label": "*",
       "type": "normal",
       "width": 0.1,
       "popup": { "relevant": [
+         { "label": ">" },
          { "label": "<" },
          { "label": "^" }] }
     },
@@ -39,7 +40,6 @@
       "width": 0.1,
       "popup": { "relevant": [
          { "label": "=" },
-         { "label": "*" },
          { "label": "+" },
          { "label": "%" }] }
     },
@@ -183,4 +183,4 @@
     { "type": "placeholder", "width": 0.02 },
     { "label": "delete", "type": "function", "width": 0.13 }
   ]
-]
+        ]
